@@ -1,4 +1,4 @@
-# LOS FINAL
+# Loan Origination System
 
 ## Backend
 
